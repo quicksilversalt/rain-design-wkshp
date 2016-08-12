@@ -1,0 +1,14 @@
+.title {
+  font-family: 'Playball', cursive;
+}
+.content--text {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+
+.title.line-1 {
+  font-size: 40px;
+}
+.title.line-2 {
+  font-size: 60px;
+}
